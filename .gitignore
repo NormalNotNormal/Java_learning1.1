@@ -10,6 +10,22 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+**/.idea
+**.iml
+**/target
+
+# Mac
+.DS_Store
+  
+# Maven
+**/log/
+**/target/
+
+#Gradle
+**/build/
+**/gradle/
+**/.gradle/
+
 # Package Files #
 *.jar
 *.war
